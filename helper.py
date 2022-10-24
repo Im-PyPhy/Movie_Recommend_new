@@ -73,5 +73,3 @@ def recommend_list(movie):
     return recommended_movies, movie_trailers, movie_posters
 
 
-
-print(df_final.head())
