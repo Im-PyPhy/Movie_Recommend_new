@@ -1,3 +1,4 @@
 streamlit
 pandas
 numpy
+Python 3.9.13
