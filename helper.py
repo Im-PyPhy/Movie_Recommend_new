@@ -72,3 +72,6 @@ def recommend_list(movie):
         movie_posters.append(poster(df_final.loc[movie_idx, 'movie_id']))
     return recommended_movies, movie_trailers, movie_posters
 
+
+
+print(df_final.head())
